@@ -13,7 +13,7 @@ Es un comercio electrónico desarrollada con python y Django. Este proyecto tien
 
 A continuación, puedes ver una imagen de cómo se ve la visual de la página:
 
-![Vista de la página](carladvidrio/core/static/core/images/pagina.png)
+![Vista de la página](core/static/core/images/pagina.png)
 
 ## Instalación
 
